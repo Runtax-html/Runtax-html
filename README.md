@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Harun&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20WhatsApp%20Bot%20Enthusiast&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Harun&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&lines=Mahasiswa+Sistem+Informasi+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;WhatsApp+Bot+Builder+%F0%9F%A4%96;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&lines=Siswa+Rekayasa+Perangkat+Lunak+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@ fun_fact: I turn coffee into code ☕ → 💻
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Runtax-html&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=7dd3fc&area=true&area_color=0ea5e9&hide_border=true" width="95%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Runtax-html&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=7dd3fc&area=true&area_color=0ea5e9&hide_border=true" width="95%" alt="Activity Graph" />
   </a>
 </p>
 
@@ -114,11 +114,11 @@ fun_fact: I turn coffee into code ☕ → 💻
 
 <hr>
 
-<h3 align="center">💬 Random Dev Quote</h3>
+<h3 align="center">💬 Favorite Quote</h3>
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Software%20is%20like%20sex:%20it%27s%20better%20when%20it%27s%20free&author=Linus%20Torvalds,%20creator%20of%20the%20Linux%20kernel" alt="Dev Quote" />
   </a>
 </p>
 
